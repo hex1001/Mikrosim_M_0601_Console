@@ -1,0 +1,9 @@
+H:\project\C#\Mikrosim_M_0601_Console\bin\Debug\Mikrosim_M_0601_Console.exe.config
+H:\project\C#\Mikrosim_M_0601_Console\bin\Debug\Mikrosim_M_0601_Console.exe
+H:\project\C#\Mikrosim_M_0601_Console\bin\Debug\Mikrosim_M_0601_Console.pdb
+H:\project\C#\Mikrosim_M_0601_Console\bin\Debug\EasyModbus.dll
+H:\project\C#\Mikrosim_M_0601_Console\bin\Debug\EasyModbus.xml
+H:\project\C#\Mikrosim_M_0601_Console\obj\Debug\Mikrosim_M_0601_Console.csproj.CoreCompileInputs.cache
+H:\project\C#\Mikrosim_M_0601_Console\obj\Debug\Mikrosim_M_0601_Console.csproj.CopyComplete
+H:\project\C#\Mikrosim_M_0601_Console\obj\Debug\Mikrosim_M_0601_Console.exe
+H:\project\C#\Mikrosim_M_0601_Console\obj\Debug\Mikrosim_M_0601_Console.pdb
